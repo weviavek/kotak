@@ -1,0 +1,148 @@
+*{
+    margin : 0;
+    padding:0;
+}
+a{
+  padding-top: 10px;
+    color: black;
+    text-align: right;
+    text-decoration: none;
+    font-family: 'Lato', sans-serif;
+}
+.padd{
+  padding-top: 0px;
+  padding-bottom: 10px;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+div{
+  padding-top: 15px;
+}
+div ul{
+  list-style-type: none;
+}
+div ul li{
+  float: left;
+  display: inline-block;
+}
+h2{
+  font-family: 'Lato', sans-serif;
+}
+.li1{
+      float: right;
+      display: inline-block;
+}
+.li2{
+  float: right;
+  background-color: #003366;
+      display: inline-block;
+      padding-right: 20%;
+      padding-left: 0px;
+      width: 20%;
+      height: 60px;
+}
+.li11{
+  height: 60px;
+  float:left;
+  background-color: #ff0000;
+      display: inline-block;
+      padding-left: 20%;
+      width: 40%
+}
+div ul li a{
+  color: black;
+  text-align: right;
+  text-decoration: none;
+  padding: 5px 10px;
+  font-family: 'Lato', sans-serif;
+}
+.div2{
+
+}
+.div2ul{
+    list-style-type: none;
+    margin-left:  0px;
+}
+div2ul.li{
+    float: left;
+    display: inline-block;
+    vertical-align: middle;;
+}
+.div2ullia{
+  color: #fff;
+  text-align: left;
+  text-decoration: none;
+  padding-left: 20px;
+  padding-bottom: 20px;
+}
+.bdy{
+}
+.bdyimg{
+  width: 100%;
+}
+.buttondiv{
+  display: inline-block;
+  margin-top: -28%;
+  padding-left: 10%;
+  padding-right: 55%;
+}
+.btn{
+  border-color: red;
+  background-color: red;
+  border-radius: 3px;
+  padding:5px 10px 5px 10px;
+}
+.cont2{
+padding-left: 15%;
+padding-right: 15%;
+}
+.imgdiv{
+  width: 100%;
+}
+.textDiv{
+  width: 90%;
+}
+.span{
+  border: 5px solid white;
+  width: 31%;
+  height: 45%;
+  display: inline-block;
+}
+.button{
+  padding-left: 10px;
+  text-decoration: none;
+  color: red;
+}
+.span2{
+  width: 100%;
+  display: inline-block;
+}
+.icon{
+  display: inline-block;
+  padding-top: 50px;
+}
+.iconText{
+  display: inline-block;
+  width: 18%;
+  padding-left:10px;
+}
+.footer{
+  padding-left:20%;
+  padding-right: 20%;
+}
+.foot1{
+  background-color: #ECECED;
+  padding-bottom: 10px;
+}
+.foot2{
+  background-color: #E0E0E0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.linew{
+    margin-top:  -15px;
+  border-bottom: 1px solid white;
+}
+.lineb{
+  border-bottom: 1px solid black;
+}
